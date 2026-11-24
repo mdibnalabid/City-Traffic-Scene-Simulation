@@ -1,0 +1,17 @@
+# Build outputs
+*.o
+*.obj
+*.exe
+*.out
+bin/
+obj/
+
+# Code::Blocks
+*.depend
+*.layout
+*.cbTemp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
